@@ -1,4 +1,4 @@
-//A-DSA Exp-1 Merge Sort in java
+//A-DSA Exp-1 Merge Sort in java..
 
 import java.util.*;
 public class MergeSortArray{
